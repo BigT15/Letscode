@@ -1,0 +1,42 @@
+.bandeau_haut {
+	display: flex ;
+	align-items: center;
+	justify-content: flex-end;
+	margin-right: 30px;
+	margin-top: 14px;
+}
+.bandeau_haut {
+    flex-direction: row;
+    display: inline-block;
+    justify-content
+}
+.bandeau_bas {
+    border-top: 2px solid black;
+    display: flexbox;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.links-1 {
+    text-align: center;
+    justify-items: center 
+}
+.links-2 {
+    text-align: center;
+    justify-content: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding : 0px
+}
+body {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+}
+.barre {
+    text-align: center;
+}
+.recherche {
+    text-align: center;
+    margin-top: 18px;
+}
